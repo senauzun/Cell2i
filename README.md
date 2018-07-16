@@ -2,7 +2,7 @@
 Mobile Application
 
 
-Bu aplikasyon i2i Systems'da staj yaptıgım dönemde takım arkadasım olan Özlem'le birlikte , bize verilen proje üzerine yaptıgımız bir uygulamadır .  Projenin çeşitli kolları vardı : Database , PHP , Android , Spring ve iOS . 
+Bu aplikasyon i2i Systems'da staj yaptıgım dönemde takım arkadasım Özlem'le birlikte , bize verilen proje üzerine yaptıgımız bir uygulamadır .  Projenin çeşitli kolları vardı : Database , PHP , Android , Spring ve iOS . 
 Agile metodolojine uygun olarak görev dağılımı gerçekleştirdik.
 iOS kısmını üstlendik. Swift dilinin temellerini öğrendikten sonra sıfırdan bu projeyi geliştirmeye başladık.
 
