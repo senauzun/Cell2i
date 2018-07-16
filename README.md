@@ -8,7 +8,8 @@ iOS kısmını üstlendik. Swift dilinin temellerini öğrendikten sonra sıfır
 
 
 Proje : Login , Change Password , Info ve Invoice kısımlarından oluşuyor.
-Web Server ' a SOAP yardımıyla bağlandık.Bize verilen wsdl baglantısını "http://gen4swift.com" sitesini kullanarak Swift diline entegre ettik.
+Web Server ' a SOAP yardımıyla bağlandık.
+Bize verilen wsdl baglantısını "http://gen4swift.com" sitesini kullanarak Swift diline entegre ettik.
 Temelde Turkcell ve Turktelekomun telefon uygulamalarını baz alarak geliştirdik. 
 Yaptıgımız uygulama bunların bir benzeridir.
 
